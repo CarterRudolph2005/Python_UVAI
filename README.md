@@ -1,9 +1,10 @@
 
-<h1>Chat Bot and Calculator - Python UV AI Tools</h1>
+<h1>Chatbot and Calculator - Python UV AI Tools</h1>
 
 <h2>Description</h2>
 Open AI is a great tool and ingraining it into larger applications can have seemingly endless advantages. There are a lot of AI tools out there, but many of used through python, so UV felt like a good place to begin learning.
-
+<br />
+<br />
 This simple project incorporates the essential components of code required to successfully  utilize artificial intelligence tools. For instance, the chat bot uses an AI API key with uv (a Python package and project manager) to efficiently run the program.
 <br />
 
