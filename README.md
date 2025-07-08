@@ -8,17 +8,12 @@ This simple project incorporates the essential components of code required to su
 <br />
 
 
-<h2>Languages Used</h2>
+<h2>Languages/Tools Used</h2>
 
-- <b>HTML</b> 
-- <b>CSS</b>
-- <b>JavaScript</b>
+- <b>Python</b> 
+- <b>UV</b>
 
 <h2>Project Display</h2>
-<p align = center> Hompage </p>
+<p align = center> Demo </p>
 
-![github](https://github.com/user-attachments/assets/d76fa2de-44d8-4e2b-9a02-4798798d13cb)
-
-<p align = center> New Dishes Section> </p>
-
-![newdishes](https://github.com/user-attachments/assets/7fdfc683-89cd-454b-bc72-af6ccb374f82)
+![ChatBotDemo](https://github.com/user-attachments/assets/b965954c-e50e-4a4e-a16c-5b43d3a92514)
